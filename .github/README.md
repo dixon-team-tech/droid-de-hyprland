@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge" alt="GPL-3.0">
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/Zet2uZP.png" alt="DroidDE Preview" width="100%">
+  <img src="https://i.imgur.com/Zet2uZP.png" alt="DroidDE Logo" width="220">
 </p>
 <h1 align="center">DroidDE</h1>
 
