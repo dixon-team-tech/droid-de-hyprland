@@ -197,7 +197,7 @@ Rather than simply imitating Android visually, DroidDE adapts Android's design p
 Special thanks to everyone who contributed to the project.
 
 ### Contributors
-
+- **@end-4** — Original Project Creator
 - **@clsty** — Installer improvements and deployment stability
 - **@midn8hustlr** — Material You color extraction enhancements
 - **@outfoxxed** — Quickshell implementation and guidance
